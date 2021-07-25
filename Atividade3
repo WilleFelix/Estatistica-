@@ -1,0 +1,47 @@
+A fórmula da distribuição normal é igual a: 
+
+Temos que u = 100 e o = 5,
+
+a)P(100 < x < 106) = 
+
+P(0 < Z < 2,4) =
+
+Olhando a tabela, temos que 2,4 = 0,3849.
+
+Portanto, P (0 < Z < 2,4) = 0,3849
+
+B)P(81 < X < 107)
+
+Da mesma forma:
+
+P(-2,2 < Z < 1,4) =
+
+-2,2, por simetria, é igual a 2,2. 
+
+Na tabela temos que 2,2 = 0,4861 e 1,4 = 0,4192. Logo, 
+
+P(-2,2 < Z < 1,4) = 0,4861 + 0,4192 = 0,9053
+
+c)P(112 < X < 116)
+ 
+
+P(2,4 < Z < 3,2) = 
+Nesse caso como queremos 2,4 < Z < 3,2, teremos que fazer:
+
+P(0 < Z < 3,2) - P(0 < Z < 2,4) = 
+
+De acordo com a tabela, 3,2 = 0,4993 e 2,4 = 0,4918. Portanto,
+
+P(0 < Z < 3,2) - P(0 < Z < 2,4) = 0,4993 - 0,4918 = 0,0075
+
+d) P(X > 108)
+
+
+P(Z > 1,6) = 
+
+Como queremos Z  > 1,6 , teremos que fazer:
+
+0,5 - P(Z > 1,6) = 
+De acordo com a tabela, 1,6 = 0,4452. Logo,
+
+0,5 - P(Z > 1,6) = 0,5 - 0,4452 = 0,0548
